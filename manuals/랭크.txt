@@ -1,0 +1,6 @@
+command title : 랭크
+description : [argument]로 전달된 소환사의 랭크 정보를 나타냅니다
+input form : #랭크 [argument]
+output form : [argument]님의 랭크 정보 SOLO_RANK, FLEX_RANK
+argument : 소환사 이름
+argument example >> #nopkil

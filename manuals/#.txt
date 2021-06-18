@@ -1,0 +1,6 @@
+command title : # (standard command)
+description : [argument]로 전달된 게임을 같이 플레이 할 사람을 구합니다
+input form : #[argument]
+output form : [author's name]님이 같이 "[argument]"할 사람을 찾고 있음!
+argument : any string
+argument example >> #롤

@@ -1,0 +1,5 @@
+command title : man
+description : 각 명령어들의 세부 정보들을 보여줍니다
+input form : #man [argument]
+argument : #을 제외한 명령어를 입력해 주세요
+argument example >> #man 영화

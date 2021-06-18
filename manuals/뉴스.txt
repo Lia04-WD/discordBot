@@ -1,0 +1,6 @@
+command title : 뉴스
+description : 헤드라인 뉴스 7개를 보여줍니다
+input form : #뉴스
+output form : title : [news title] resource : [news url]
+argument : none
+information source : https://news.naver.com/main/list.nhn?mode=LSD&mid=sec&sid1=001

@@ -1,0 +1,6 @@
+command title : 캐릭터순위
+description : 애니메이션 캐릭터 순위를 나타냅니다 (1위 ~ 10위)
+sort policy : 온나다 사이트에 따라 일정기간 조회수와 클릭수 기준
+input form : #캐릭터순위
+output form : [character's name] | [anime title]
+information source : http://character.onnada.com/rank.php

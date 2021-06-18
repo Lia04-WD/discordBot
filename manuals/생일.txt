@@ -1,0 +1,6 @@
+command title : 생일
+description : 애니메이션 캐릭터의 정보(생일)을 나타냅니다
+input form : #생일 [argument]
+argument : 애니메이션 캐릭터의 이름
+argument example : #생일 에밀리아
+information source : http://character.onnada.com/search.php

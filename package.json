@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "avconv": "^3.1.0",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "iconv-lite": "^0.6.2",
+    "jschardet": "^2.2.1",
+    "node-gyp": "^7.1.2",
+    "node-html-to-image": "^3.1.0",
+    "rebuild": "^0.1.2",
+    "request-promise": "^4.2.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

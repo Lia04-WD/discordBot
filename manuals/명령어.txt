@@ -1,0 +1,4 @@
+command title : 명령어
+description : 태보봇이 수행할 수 있는 모든 명령어를 보여줍니다
+input form : #명령어
+output form : #[command title] : [command description]

@@ -1,0 +1,6 @@
+command title : 애니순위
+description : 애니메이션 순위를 나타냅니다 (1위 ~ 10위)
+sort policy : 온나다 사이트에 따라 조회수 기준
+input form : #애니순위
+output form : [anime title]
+information source : http://anime.onnada.com/rank.php

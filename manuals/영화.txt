@@ -1,0 +1,6 @@
+command title : 영화
+description : 영화 순위를 나타냅니다
+sort policy : CGV 사이트에 따라 예매율 기준
+input form : #영화
+output form : [movie title]
+information source : http://www.cgv.co.kr/movies
