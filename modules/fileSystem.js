@@ -16,10 +16,10 @@ fileSystem.getDefaultMan = function(){
     return result_data;
 };
 
-fileSystem.getDetailMan = function(data){       // path traversal vulnerability!!
+fileSystem.getDetailMan = function(data){
 
     const fs = require("fs");
-    const path = `./manuals/${data}.txt`;
+    const path = `./manuals/${data}.txt`;       // path traversal vulnerability!!
 
     try{
         const result_data = fs.readFileSync(path, "utf8", function(err, data){
