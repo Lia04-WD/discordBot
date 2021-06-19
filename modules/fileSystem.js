@@ -16,7 +16,7 @@ fileSystem.getDefaultMan = function(){
     return result_data;
 };
 
-fileSystem.getDetailMan = function(data){
+fileSystem.getDetailMan = function(data){       // path traversal vulnerability!!
 
     const fs = require("fs");
     const path = `./manuals/${data}.txt`;
